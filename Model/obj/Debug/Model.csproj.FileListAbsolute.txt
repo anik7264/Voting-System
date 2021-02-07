@@ -1,0 +1,15 @@
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\bin\Debug\Model.dll
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\bin\Debug\Model.pdb
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\obj\Debug\Model.dll
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\obj\Debug\Model.pdb
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\obj\Debug\Model.csprojAssemblyReference.cache
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+I:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\bin\Debug\Model.dll
+I:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\bin\Debug\Model.pdb
+I:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\obj\Debug\Model.dll
+I:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\Model\obj\Debug\Model.pdb
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\Model\bin\Debug\Model.dll
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\Model\bin\Debug\Model.pdb
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\Model\obj\Debug\Model.dll
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\Model\obj\Debug\Model.pdb

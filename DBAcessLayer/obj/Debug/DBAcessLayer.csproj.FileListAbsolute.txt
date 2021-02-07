@@ -1,0 +1,14 @@
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\DBAcessLayer\bin\Debug\DBAcessLayer.dll
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\DBAcessLayer\bin\Debug\DBAcessLayer.pdb
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\DBAcessLayer\obj\Debug\DBAcessLayer.dll
+K:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\DBAcessLayer\obj\Debug\DBAcessLayer.pdb
+I:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\DBAcessLayer\bin\Debug\DBAcessLayer.dll
+I:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\DBAcessLayer\bin\Debug\DBAcessLayer.pdb
+I:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\DBAcessLayer\obj\Debug\DBAcessLayer.dll
+I:\Pendrive\Jahangirnagar University\Project1(1)\Project1\Project1\DBAcessLayer\obj\Debug\DBAcessLayer.pdb
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\DBAcessLayer\bin\Debug\DBAcessLayer.dll
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\DBAcessLayer\bin\Debug\DBAcessLayer.pdb
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\DBAcessLayer\obj\Debug\DBAcessLayer.csprojAssemblyReference.cache
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\DBAcessLayer\obj\Debug\DBAcessLayer.csproj.CoreCompileInputs.cache
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\DBAcessLayer\obj\Debug\DBAcessLayer.dll
+I:\Pendrive\Jahangirnagar University\Update Project\Project1\Project1\DBAcessLayer\obj\Debug\DBAcessLayer.pdb
