@@ -1,0 +1,74 @@
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Jahangirnagar University.exe.config
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Jahangirnagar University.exe
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Jahangirnagar University.pdb
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\MySql.Data.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.Edm.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.OData.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\System.Spatial.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Google.Protobuf.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Zstandard.Net.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\BouncyCastle.Crypto.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Ubiety.Dns.Core.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Renci.SshNet.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\System.Buffers.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\K4os.Compression.LZ4.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\K4os.Hash.xxHash.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\MySql.Data.xml
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.Edm.xml
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.OData.xml
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\bin\Debug\System.Spatial.xml
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.csprojResolveAssemblyReference.cache
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.csproj.Jahangirnagar University.exe.config
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.Form1.resources
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.Properties.Resources.resources
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step2.resources
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step22.resources
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step23.resources
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step3.resources
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step4.resources
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.csproj.GenerateResource.Cache
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.exe
+D:\Mikrotik\JU\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.pdb
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Jahangirnagar University.exe.config
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Jahangirnagar University.exe
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Jahangirnagar University.pdb
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.Edm.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.OData.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\System.Spatial.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Google.Protobuf.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Zstandard.Net.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\BouncyCastle.Crypto.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Ubiety.Dns.Core.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Renci.SshNet.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\System.Memory.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\System.Buffers.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\K4os.Compression.LZ4.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\K4os.Hash.xxHash.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\MySql.Data.xml
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.Edm.xml
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\Microsoft.Data.OData.xml
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\bin\Debug\System.Spatial.xml
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.csprojAssemblyReference.cache
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.exe.config
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.Form1.resources
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.Properties.Resources.resources
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step2.resources
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step22.resources
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step23.resources
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step3.resources
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar_University.step4.resources
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.csproj.GenerateResource.cache
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.csproj.CoreCompileInputs.cache
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.csproj.CopyComplete
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.exe
+D:\Ank's EVM\Jahangirnagar University\Jahangirnagar University\obj\Debug\Jahangirnagar University.pdb
