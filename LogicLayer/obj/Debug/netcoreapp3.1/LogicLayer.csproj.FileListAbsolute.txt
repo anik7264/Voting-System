@@ -1,0 +1,9 @@
+E:\Projects\Nafis Sadik\Voting-System\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.deps.json
+E:\Projects\Nafis Sadik\Voting-System\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.dll
+E:\Projects\Nafis Sadik\Voting-System\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.pdb
+E:\Projects\Nafis Sadik\Voting-System\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.csprojAssemblyReference.cache
+E:\Projects\Nafis Sadik\Voting-System\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.AssemblyInfoInputs.cache
+E:\Projects\Nafis Sadik\Voting-System\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.AssemblyInfo.cs
+E:\Projects\Nafis Sadik\Voting-System\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.csproj.CoreCompileInputs.cache
+E:\Projects\Nafis Sadik\Voting-System\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.dll
+E:\Projects\Nafis Sadik\Voting-System\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.pdb

@@ -1,0 +1,12 @@
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\bin\Debug\netcoreapp3.1\DBAcessLayer.deps.json
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\bin\Debug\netcoreapp3.1\DBAcessLayer.runtimeconfig.json
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\bin\Debug\netcoreapp3.1\DBAcessLayer.runtimeconfig.dev.json
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\bin\Debug\netcoreapp3.1\DBAcessLayer.dll
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\bin\Debug\netcoreapp3.1\DBAcessLayer.pdb
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\obj\Debug\netcoreapp3.1\DBAcessLayer.csprojAssemblyReference.cache
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\obj\Debug\netcoreapp3.1\DBAcessLayer.AssemblyInfoInputs.cache
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\obj\Debug\netcoreapp3.1\DBAcessLayer.AssemblyInfo.cs
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\obj\Debug\netcoreapp3.1\DBAcessLayer.csproj.CoreCompileInputs.cache
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\obj\Debug\netcoreapp3.1\DBAcessLayer.dll
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\obj\Debug\netcoreapp3.1\DBAcessLayer.pdb
+E:\Projects\Nafis Sadik\Voting-System\DBAcessLayer\obj\Debug\netcoreapp3.1\DBAcessLayer.genruntimeconfig.cache
